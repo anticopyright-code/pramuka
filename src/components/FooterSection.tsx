@@ -4,32 +4,32 @@ function Footer() {
       <p>
         Dibuat oleh{' '}
         <a
-          href="https://mazipan.space/?utm_source=pramuka"
+          href="https://anticopyright.my.id"
           target="_blank"
           rel="noopenner noreferrer"
           className="font-bold text-link"
         >
-          Irfan Maulana
+          Adit Abdul
         </a>
       </p>
       <p className="mt-2">
         Cek juga:{' '}
         <a
-          href="https://ksana.in/?utm_source=pramuka"
+          href="https://anticopyright.my.id"
           target="_blank"
           rel="noopenner noreferrer"
           className="font-bold text-link"
         >
-          Ksana.in
+          dudul.id
         </a>
         {', '}
         <a
-          href="https://www.baca-quran.id/?utm_source=pramuka"
+          href="https://anticopyrigh"
           target="_blank"
           rel="noopenner noreferrer"
           className="font-bold text-link"
         >
-          Baca-Quran.id
+          anticopyright.my.id
         </a>
       </p>
     </footer>
